@@ -11,6 +11,10 @@ Required to run and compile.
 - react-native-cli
 - XCode (only for Mac) or Android Studio to run in simulator.
 
+## Screenshoots
+![Android](https://i.imgur.com/u1jVaD2.png)
+![iOS](https://i.imgur.com/CjCFnQh.png)
+
 ## Download APK for Android
 [Download here](https://expo.io/artifacts/f7246aca-fe93-46d8-8c85-a2f49c57fc02 "Download")
 
